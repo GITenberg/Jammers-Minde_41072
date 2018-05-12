@@ -25,6 +25,8 @@ creator:
     gutenberg_agent_id: '40964'
     url: http://www.gutenberg.org/2009/agents/40964
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/41072#Jammers-Minde
 gutenberg_issued: '2012-10-16'
 gutenberg_type: Text
 identifiers:
