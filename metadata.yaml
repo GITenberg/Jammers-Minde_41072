@@ -1,0 +1,41 @@
+_repo: Jammers-Minde_41072
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 41072-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Ulfeldt, Leonora Christina, grevinde
+    aliases:
+    - Leonora Christina, grevinde til Slesvig og Holsten
+    - Ulfeld, Eleonora Christina, Countess
+    birthdate: 1621
+    deathdate: 1698
+    gutenberg_agent_id: '39253'
+    url: http://www.gutenberg.org/2009/agents/39253
+    wikipedia: http://en.wikipedia.org/wiki/Leonora_Christina_Ulfeldt
+  editor:
+    agent_name: Smith, S. Birket (Sophus Birket)
+    aliases:
+    - Smith, Sophus Birket
+    - Smith, Sofus Laurits Henrik Christian Julius Birket
+    - Birket Smith, S. (Sophus)
+    birthdate: 1838
+    deathdate: 1919
+    gutenberg_agent_id: '40964'
+    url: http://www.gutenberg.org/2009/agents/40964
+description: ''
+gutenberg_issued: '2012-10-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '41072'
+language: da
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Ulfeldt, Leonora Christina, grevinde, 1621-1698'
+- !lcc 'DL'
+title: Leonora Christina Ulfeldt's "Jammers-minde". En egenhændig skiedring of hendes
+  fangenskab i Blaataarn i aarene 1663-1685
+url: http://www.gutenberg.org/ebooks/41072
